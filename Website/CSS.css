@@ -1,0 +1,26 @@
+/*header*/
+.banner{
+    background-color: red;
+    width: 100vw;
+    display:flex;
+
+}
+.blitz{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right:34%;
+    font-size:40px;
+
+
+}
+.logo{
+    display:block;
+    margin-left: ;
+    margin-right: auto;
+    width: 8%;
+}
+.navbar{
+    display:flex;
+    
+
+}
